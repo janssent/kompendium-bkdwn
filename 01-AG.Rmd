@@ -1,4 +1,4 @@
-#Die Mathematikdidaktik an der Universität Bremen
+# Die Mathematikdidaktik an der Universität Bremen
 
 Die AG Didaktik
 ---------------
@@ -16,8 +16,8 @@ mehr theoretische und praktische Einsicht in Prozesse der mathematischen
 Wissenskonstruktion und deren fördernde und behindernde Bedingungen zu
 gewinnen.
 
-```{r ID, fig.cap="Die Mitglieder der AG Didaktik. Es fehlen Angelika Bikner-Ahsbahs, Uwe Schallmeier, Daniela Schansker und Mareike Best.", echo = FALSE}
-knitr::include_graphics('ag_web_bw.jpg')
+```{r ID, fig.cap="Die Mitglieder der AG Didaktik. Es fehlt Thomas Janßen.", echo = FALSE}
+knitr::include_graphics('bild_ag.jpg')
 ```
 
 Zentraler Grundsatz in der Lehrer\_innenausbildung ist eine möglichst
@@ -53,17 +53,17 @@ Das Matelier
 
 Ein Ausdruck der Zusammenarbeit zwischen den Mathematikdidaktik-AGs in den Fachbereichen 3 und 12 ist das *Matelier*, das seit 2011 gemeinsam betrieben wird. Es befindet sich im Raum MZH 2495 und beherbergt eine reiche Sammlung an didaktischen Materialien. Neben nahezu allen gängigen Schulbüchern werden vor allem Spiele und Bastelmaterial sowie grafische und mechanische Hilfsmittel in Vitrinen dargestellt, die als Inspiration für einen aktiven Zugang zur Mathematik dienen können. Viele Materialien können von den Studierenden der Universität zudem ausgeliehen werden, sei es zur Verwendung im Schulpraktikum oder in einer unserer Lehrveranstaltungen.
 
-Die aktuellen Öffnungszeiten des Mateliers sind (Stand Oktober 2018, für Aktualisierungen und Ausnahmen siehe [www.matelier.uni-bremen.de](https://www.matelier.uni-bremen.de)):
+Die aktuellen Öffnungszeiten des Mateliers sind (Stand Oktober 2023, für Aktualisierungen und Ausnahmen siehe [https://www.uni-bremen.de/matelier](https://www.uni-bremen.de/matelier)):
 
--   dienstags von 15:45 bis 17:45 Uhr
+-   montags von 12:00 bis 14:00 Uhr
 
--   mittwochs von 14:00 bis 16:00 Uhr
+-   mittwochs von 12:00 bis 14:00 Uhr
 
--   donnerstags von 12:00 bis 14:00 Uhr
+-   freitags von 12:00 bis 14:00 Uhr
 
 Außerdem ist das Matelier auch ein Tor zur Mathematik für viele Schüler\_innen, die die Universität besuchen, sei es im Rahmen der regelmäßigen *Forschertage* oder der jährlich stattfindenden *Kinder-Uni*. Dabei gibt es auch immer wieder Gelegenheit für Studierende, sich aktiv an Planung und Durchführung zu beteiligen.
 
-Nähere Informationen finden Sie unter [www.matelier.uni-bremen.de](https://www.matelier.uni-bremen.de).
+Nähere Informationen finden Sie unter [https://www.uni-bremen.de/matelier](https://www.uni-bremen.de/matelier).
 
 Das mathematikdidaktische Kolloquium
 ------------------------------------

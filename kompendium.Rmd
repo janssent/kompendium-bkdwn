@@ -1,0 +1,98 @@
+---
+title: "Kompendium zum wissenschaftlichen Arbeiten"
+subtitle: "herausgegeben von der AG Didaktik im Fachbereich 3 der Universität Bremen"
+description: "Eine Handreichung für Studierende im Mathematiklehramt mit hilfreichen Informationen zur AG Didaktik im FB3 der Universität Bremen und zum erfolgreichen wissenschaftlichen Arbeiten in der Mathematikdidaktik."
+author: "Thomas Janßen"
+date: "Version 8 · Oktober 2023"
+license: Creative Commons Zero v1.0 Universal
+site: bookdown::bookdown_site
+graphics: yes
+documentclass: scrbook
+classoption: [bibliography=totoc,oneside,12pt,a4paper]
+lang: de
+output:
+  bookdown::pdf_book:
+    includes:
+      in_header: preamble.tex
+    citation_package: biblatex
+    template: null
+bibliography: [literatur.bib]
+biblatexoptions: [refsegment=chapter]
+csl: apa-de.csl
+link-citations: yes
+biblio-style: apa
+cover-image: logoagdidaktik.png
+---
+
+# Vorwort {.unnumbered}
+
+Placeholder
+
+
+
+<!--chapter:end:index.Rmd-->
+
+
+
+
+<!--chapter:end:01-AG.Rmd-->
+
+
+
+### Anmerkung zum Urheberrecht {#anmerkung-zum-urheberrecht .unnumbered}
+### Wörtliche Zitate
+### Sinngemäße Zitate
+### Verwendung von Fußnoten {#verwendung-von-fußnoten .unnumbered}
+### Monographie (ein durchgehendes Werk, im Gegensatz zum Sammelband) mit einem Autor/einer Autorin {#monographie-ein-durchgehendes-werk-im-gegensatz-zum-sammelband-mit-einem-autoreiner-autorin .unnumbered}
+### Monographie mit mehreren Autor\_innen {#monographie-mit-mehreren-autor_innen .unnumbered}
+### Sammelband {#sammelband .unnumbered}
+### Beitrag in einem Sammel- oder Tagungsband {#beitrag-in-einem-sammel--oder-tagungsband .unnumbered}
+### Zeitschriftenartikel {#zeitschriftenartikel .unnumbered}
+### Internetquellen {#internetquellen .unnumbered}
+
+<!--chapter:end:02-wiss-standards.Rmd-->
+
+
+
+
+<!--chapter:end:03-schreiben.Rmd-->
+
+Forschung mit personenbezogenen Daten
+=====================================
+
+In der Mathematikdidaktik sind wir häufig darauf angewiesen, mit Daten
+aus der Schule und dem Schulumfeld zu arbeiten. Diese mögen in Tests,
+Fragebögen, Mitschnitten von Interviews und Gruppendiskussionen oder in
+Unterrichtsvideos enthalten sein. Schnell geht es dabei um
+*personenbezogene Daten*. Dies sind nach dem Bremischen
+Datenschutzgesetz “Einzelangaben über persönliche oder sachliche
+Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person”
+(§2(1) BremDSG). Um einen ordentlichen Umgang mit solchen Informationen
+über Schüler\_innen, Lehrer\_innen und Eltern sicherzustellen, müssen je
+nach Form der Datenerhebung Anträge gestellt, verantwortliche Personen
+informiert und/oder Einverständniserklärungen eingeholt werden. Das Land Bremen bietet online eine [Aufstellung der unterschiedlichen Verfahren, die hier zu
+befolgen sind](https://www.bildung.bremen.de/sixcms/detail.php?gsid=bremen117.c.5312.de).
+Eine Übersicht über ähnliche Verfahren in anderen Bundesländern findet
+sich unter https://www.forschungsdaten-bildung.de/genehmigungen.^[Zu beachten ist hier, dass die Informationen nur unregelmäßig
+    aktualisiert werden. Ausschlaggebend sind letztlich immer die
+    Angaben der entsprechenden Behörden.]
+
+Die genannten Verfahren lassen sich teilweise schnell erledigen,
+bedeuten manchmal aber auch eine erhebliche Mehrbelastung in der
+Vorbereitung einer Datenerhebung. Es sollte also frühzeitig geklärt
+werden, welches Verfahren notwendig ist und welche Vorkehrungen zu
+treffen sind.
+
+<!--chapter:end:04-daten.Rmd-->
+
+
+
+
+<!--chapter:end:05-nuetzliches.Rmd-->
+
+`r if (knitr:::is_html_output()) '
+# Literatur {-}
+'`
+
+<!--chapter:end:06-references.Rmd-->
+
