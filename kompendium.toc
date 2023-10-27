@@ -42,9 +42,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Hausarbeiten schreiben}{15}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Kurzleitfaden zum Schreiben einer Hausarbeit}{15}{section.3.1}
+\contentsline {section}{\numberline {3.1}Kurzleitfaden zum Schreiben empirischer Arbeuten}{15}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Schreiben muss man lernen}{16}{section.3.2}
+\contentsline {section}{\numberline {3.2}Sprache und Geschlechtergerechtigkeit}{16}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Schreiben muss man lernen}{17}{section.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Forschung mit personenbezogenen Daten}{18}{chapter.4}
 \defcounter {refsection}{0}\relax 

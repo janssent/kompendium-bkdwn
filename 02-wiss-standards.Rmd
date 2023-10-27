@@ -155,6 +155,8 @@ Quelle nicht selbst überprüft haben. Sie schreiben dann
 
 Die ursprüngliche Quelle (im Beispiel das Werk von Martens) taucht lediglich in diesem Verweis auf, in Ihrem Literaturverzeichnis führen Sie nur das Werk auf, das sie tatsächlich gelesen haben (im Beispiel Kalbs, Richter & Lob). So stellen Sie auch sicher, dass eine falsche Einordnung des Zitats, die den Autor\_innen hier unter Umständen unterlaufen ist, nicht Ihnen zur Last gelegt wird.
 
+Dieses Vorgehen sollte allerdings die Ausnahme bleiben. Überblickswerke können Ihnen beim Einstieg in das Thema helfen, entbinden Sie aber nicht von der Aufgabe, die für Ihre Fragestellung relevante Literatur selbst zu lesen und auszuwerten.
+
 ### Sinngemäße Zitate
 
 Nicht nur wörtliche Zitate müssen kenntlich gemacht werden. Auch wenn
