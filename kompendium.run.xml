@@ -61,6 +61,8 @@
       <file>biblatex.cfg</file>
       <file>german.lbx</file>
       <file>german-apa.lbx</file>
+      <file>ngerman.lbx</file>
+      <file>ngerman-apa.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">

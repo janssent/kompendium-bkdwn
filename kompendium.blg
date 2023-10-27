@@ -1,18 +1,22 @@
-[0] Config.pm:302> INFO - This is Biber 2.11
-[0] Config.pm:305> INFO - Logfile is 'kompendium.blg'
-[35] biber-MSWIN64:313> INFO - === 
-[74] Biber.pm:371> INFO - Reading 'kompendium.bcf'
-[251] Biber.pm:857> INFO - Found 2 citekeys in bib section 0
-[281] Biber.pm:3976> INFO - Processing section 0
-[309] Biber.pm:4136> INFO - Looking for bibtex format file 'literatur.bib' for section 0
-[319] bibtex.pm:1500> INFO - LaTeX decoding ...
-[338] bibtex.pm:1316> INFO - Found BibTeX data source 'literatur.bib'
-[351] Utils.pm:193> WARN - year field '2016, Oktober' in entry 'autorengruppe2012' is not an integer - this will probably not sort properly.
-[358] Utils.pm:193> WARN - year field '2012, Dezember' in entry 'toerner2012' is not an integer - this will probably not sort properly.
-[378] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[378] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[378] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[378] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
-[388] bbl.pm:617> INFO - Writing 'kompendium.bbl' with encoding 'UTF-8'
-[391] bbl.pm:720> INFO - Output to kompendium.bbl
-[396] Biber.pm:110> INFO - WARNINGS: 2
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'kompendium.blg'
+[53] biber:340> INFO - === Sa Okt 28, 2023, 00:05:57
+[63] Biber.pm:419> INFO - Reading 'kompendium.bcf'
+[115] Biber.pm:979> INFO - Found 2 citekeys in bib section 0
+[129] Biber.pm:4419> INFO - Processing section 0
+[136] Biber.pm:4610> INFO - Looking for bibtex file 'literatur.bib' for section 0
+[136] bibtex.pm:1713> INFO - LaTeX decoding ...
+[138] bibtex.pm:1519> INFO - Found BibTeX data source 'literatur.bib'
+[164] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[164] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[164] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[164] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[172] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[172] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[172] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[172] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[177] bbl.pm:660> INFO - Writing 'kompendium.bbl' with encoding 'UTF-8'
+[178] bbl.pm:763> INFO - Output to kompendium.bbl
+[178] Biber.pm:131> WARN - legacy year field '2016, Oktober' in entry 'autorengruppe2012' is not an integer - this will probably not sort properly.
+[178] Biber.pm:131> WARN - legacy year field '2012, Dezember' in entry 'toerner2012' is not an integer - this will probably not sort properly.
+[178] Biber.pm:133> INFO - WARNINGS: 2
