@@ -307,7 +307,8 @@ Literaturverwaltungssysteme Citavi und RefWorks in der Vollversion durch
 eine Campuslizenz der Staats- und Universitätsbibliothek frei
 zugänglich. Nähere Informationen zu den beiden Programmen und ihrer
 Nutzung erhalten Sie unter
-http://www.suub.uni-bremen.de/literatur-verwalten/refworks/.
+https://www.suub.uni-bremen.de/service-beratung/literaturverwaltung/refworks-2/.
+Daneben bietet sich die frei Software Zotero an, die auf allen gängigen Betriebsystemen und Mobilgeräten verfügbar ist. Nähere Informationen finden Sie unter https://www.suub.uni-bremen.de/service-beratung/literaturverwaltung/zotero/. Zu den angesprochenen Programmen bietet die Staats- und Universitätsbliothek auch Online-Schulungen an.
 
 In LaTeX wird die Formatierung der Zitationen und des
 Literaturverzeichnisses allerdings nicht von der externen Software übernommen, sondern muss über ein Paket bewerkstelligt werden, das auf Ihre Datenbank in Form einer bib-Datei zugreift. Es gibt mehrere Möglichkeiten; das Paket apacite ist durchaus zu empfehlen. Wenn es mittels `\usepackage{apacite}` in der Präambel geladen ist und Deutsch als Sprache des Dokuments eingestellt ist, muss nur noch nach Einbinden der Bibliographiedatei (zum Beispiel `literatur.bib`) apacite als Bibliographiestil angegeben werden:

@@ -16,8 +16,8 @@ mehr theoretische und praktische Einsicht in Prozesse der mathematischen
 Wissenskonstruktion und deren fördernde und behindernde Bedingungen zu
 gewinnen.
 
-```{r ID, fig.cap="Die Mitglieder der AG Didaktik. Es fehlen Angelika Bikner-Ahsbahs, Uwe Schallmeier, Daniela Schansker und Mareike Best.", echo = FALSE}
-knitr::include_graphics('ag_web_bw.jpg')
+```{r ID, fig.cap="Die Mitglieder der AG Didaktik. Es fehlt Thomas Janßen.", echo = FALSE}
+knitr::include_graphics('bild_ag.jpg')
 ```
 
 Zentraler Grundsatz in der Lehrer\_innenausbildung ist eine möglichst

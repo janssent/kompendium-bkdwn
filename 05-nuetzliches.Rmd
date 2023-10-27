@@ -108,18 +108,12 @@ Datenbanken
 Die Vielzahl der Zeitschriften macht es fast unmöglich, durch einfaches
 Durchblättern das zu finden, was man gerade braucht. Daher sind
 Datenbanken eine wertvolle Hilfe. Für die Mathematikdidaktik gibt es
-drei relevante Datenbanken, die zwar teilweise kostenpflichtig sind, aus
+leider nur noch zwei relevante Datenbanken, die zwar teilweise kostenpflichtig sind, aus
 dem Netz der Universität aber kostenlos abgerufen werden können:
-
-MathEduc
-
-:   [www.zentralblatt-math.org/matheduc/](https://www.zentralblatt-math.org/matheduc/) – Sehr umfangreiche Datenbank,
-    insbesondere sind auch so gut wie alle deutschsprachigen
-    Titel enthalten.
 
 FIS Bildung
 
-:   [www.fachportalpaedagogik.de/fis\_bildung](https://www.fachportalpaedagogik.de/fis_bildung) – Geht über die
+:   [www.fachportalpaedagogik.de/fis\_bildung](https://www.fachportal-paedagogik.de/) – Geht über die
     Mathematikdidaktik hinaus.
 
 ERIC
